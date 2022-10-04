@@ -24,22 +24,18 @@
 Edit the required value in [`config.js`](https://github.com/Rizxyu/RIXLE-BOT/blob/main/config.js)
 
 ```js
-userbot = {
+userbot = {Kelzyy 660
  owner: [
-  "6281261324817",
-  "62822980698995", 
-  "436504463151666",
-  "6282328303332",
-  "62823283033323"
+  "6281388331173".
   ],
   mess: {
    wait: "tunggu sedang di proses...",
    error: "errorr!!"
    },
    prefix: ["/"],
-   gexp: 50,
-   packname: "RIXLE-BOT OFFICIAL",
-   author: 'Arifi Razzaq',
+   gexp: 60,
+   packname: "【﻿ＫｅｍａｌＺ３３３】",
+   author: 'kelzy sn',
 
     setting: {
     admin: "only admin",
